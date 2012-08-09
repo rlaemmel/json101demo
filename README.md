@@ -8,7 +8,7 @@ Simple tag clouds are computed for the frequency of languages and technologies a
 
 # Features
 
-TBD
+* [Wiki analysis demo](http://101companies.org/index.php/101feature:Wiki_analysis_demo)
 
 # Input 
 
@@ -23,5 +23,5 @@ Frequency is represented both in .json and .html files.
 
 # Resources 
 
-* [101data](http://data.101companies.org)
-* [YouTube channel for 101companies](http://www.youtube.com/channel/UCzecm5qz_9KDcxuhgbRDy-w)
+* The [YouTube channel of 101companies](http://www.youtube.com/channel/UCzecm5qz_9KDcxuhgbRDy-w) with a video for this demonstration
+* The [101data site](http://data.101companies.org)
