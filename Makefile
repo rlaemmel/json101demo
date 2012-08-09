@@ -1,6 +1,6 @@
-# Analyze JSON dump
-analyze: 101wiki.json
-	./analyze.py
+# Process JSON dump and produce tag clouds
+process: 101wiki.json
+	./process.py
 
 # Download JSON dump of 101wiki
 101wiki.json:
